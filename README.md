@@ -3,7 +3,7 @@
 
 # Sobre o projeto
 
-<img align="center" alt="Bruno-C" height="auto" width="80" src="https://img.shields.io/github/stars/BrunoHoinacki/IndicacaoDeLivros?style=social" />
+![NPM](https://img.shields.io/github/stars/BrunoHoinacki/IndicacaoDeLivros?style=social)
 
 Deixo este repositório para as pessoas que querem ter um conhecimento sobre tecnologia e não sabem por onde começar.
 
